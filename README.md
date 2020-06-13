@@ -15,7 +15,7 @@
 @Builder
 ~~~
 
-##spring profile
+## spring profile
 ~~~
 
 1.using spring profilr we can configure environment related properties
@@ -31,5 +31,8 @@ dev env. related properties
 spring.profiles: test
 
 test env. related properties
+
+pass the below in env. variable
+-Dspring.profiles.active=dev
 
 ~~~
