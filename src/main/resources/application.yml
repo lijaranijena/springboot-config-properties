@@ -1,0 +1,21 @@
+
+---
+spring.profiles: e0
+
+person-details:
+  firstName: lijarani
+  lastName: jena
+  age: 27
+  place: bangalore
+
+
+
+---
+spring.profiles: e1
+
+person-details:
+  firstName: Dhananjaya
+  lastName: SS
+  age: 30
+  place: bangalore
+
